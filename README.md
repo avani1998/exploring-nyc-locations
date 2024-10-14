@@ -2,7 +2,7 @@
 
 This Tableau project visualizes the filming locations of iconic TV shows set in New York City. Through an interactive dashboard, users can explore various locations, the context of each place within the show, and detailed information about how these locations contribute to the overall storyline and cultural identity of New York.
 
-![Dashboard Preview](images/dashboard_preview.png "Dashboard Preview")
+![Dashboard Preview](ny_shows.png "Dashboard Preview")
 
 ## Dashboard Overview
 
